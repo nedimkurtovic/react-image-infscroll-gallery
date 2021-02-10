@@ -149,16 +149,12 @@ export default function Gallery() {
 	);
 }
 /*
-	Hi, 
+	 
 	Solution number 2 has a problem that reports constantly an error to the console, i have looked up the problem 
 	and saw that other people also had problems: https://github.com/ankeetmaini/react-infinite-scroll-component/issues/140 with
 	this library.
-	I have found another way to solve the infinite scrolling, which is through the callback function and IntersectionObserver.
 	
 	Both of the solutions are working, solution 1 is the default one that you will see when you run the application.
 	If you wish to try out solution number 2, just uncomment the solution number 2 lines and comment the solution number 1.
-	Thanks for taking time to review the code.
 
-	Best regards, 
-	Nedim
 */

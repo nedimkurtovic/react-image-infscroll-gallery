@@ -13,18 +13,18 @@ const GlobalStyle = createGlobalStyle`
 		width:100%;
 	}
 	body{
-		background-color: rgb(255,254,250);
+		background-color: #ffffff;
 	}
 	::-webkit-scrollbar {
-	width: 15px;
+	width: 5px;
 	}
 	::-webkit-scrollbar-thumb {
-	background-color: #2374AB;
-	border: 1px solid black;
+	background-color: #a9a9a9;
+	border: 1px solid #a9a9a9;
 	border-radius:2px;
 	}
 	::-webkit-scrollbar-track {
-	background-color: rgb(255,254,250);
+	background-color: #eee;
 }
 `;
 function App() {
